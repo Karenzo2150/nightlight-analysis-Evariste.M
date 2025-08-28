@@ -206,5 +206,5 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Files not to push to github repository
 .venv-test/*
-requirements
