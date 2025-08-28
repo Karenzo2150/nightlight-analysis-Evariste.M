@@ -1,4 +1,0 @@
-Zonal Statistics Analysis
-Clip Global Raster to Rwanda
-To make the raster file smaller and more manageable, we will clip (cut) it to the boundary of Rwanda. 
-This step extracts only the portion of the raster that falls within Rwanda’s borders, reducing file size and improving processing efficiency
