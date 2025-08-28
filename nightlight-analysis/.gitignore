@@ -206,7 +206,4 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 # Junk store of data/files that are not supposed to be pushed to GitHub repository
-data/*
-nightlight_env
-requirements
 
