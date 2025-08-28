@@ -4,4 +4,4 @@ rasterio==1.3.6
 pandas==2.0.3 
 numpy==1.25.2 
 matplotlib==3.6.3 
--e ./nightlight-analysis 
+-e ./nightlight_analysis 
