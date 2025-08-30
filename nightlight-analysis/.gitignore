@@ -210,5 +210,5 @@ __marimo__/
 
 data/*
 data/ntl/rw-adm4-ntl-stats.csv
-requirements
+requirements/
 nightlight_env/*
