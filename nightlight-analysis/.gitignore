@@ -208,7 +208,7 @@ __marimo__/
 # Junk store of data/files that are not supposed to be pushed to GitHub repository
 # Ignore everything in data except the zonal stats CSV
 
-data
-data/ntl/rw-adm4-ntl-stats.csv
+data/*
+!ntl/rw-adm4-ntl-stats.csv
 requirements
 nightlight_env/*
