@@ -1,0 +1,11 @@
+admin_name,admin_level,feature_id,mean,median,count,sum,cell_id,province_n,district_n,sector_nam,cell_name
+RWA.5.1.8.3_1,cell_id,2042,22.040318,0.0,25,551.00793,RWA.5.1.8.3_1,UmujyiwaKigali,Gasabo,Kimihurura,Rugando
+RWA.5.1.13.4_1,cell_id,2066,18.456652,0.0,24,442.95966,RWA.5.1.13.4_1,UmujyiwaKigali,Gasabo,Remera,RukiriIi
+RWA.5.2.10.3_1,cell_id,2121,15.426421,0.0,35,539.92474,RWA.5.2.10.3_1,UmujyiwaKigali,Kicukiro,Nyarugunga,Rwimbogo
+RWA.5.3.9.3_1,cell_id,2163,14.778305,0.0,48,709.35864,RWA.5.3.9.3_1,UmujyiwaKigali,Nyarugenge,Nyarugenge,Kiyovu
+RWA.5.2.9.3_1,cell_id,2118,13.693196,0.0,12,164.31836,RWA.5.2.9.3_1,UmujyiwaKigali,Kicukiro,Niboye,Nyakabanda
+RWA.5.1.13.1_1,cell_id,2063,13.375796,0.0,18,240.76433,RWA.5.1.13.1_1,UmujyiwaKigali,Gasabo,Remera,Nyabisindu
+RWA.5.3.9.4_1,cell_id,2164,13.201833,12.788012,4,52.80733,RWA.5.3.9.4_1,UmujyiwaKigali,Nyarugenge,Nyarugenge,Rwampara
+RWA.5.1.7.1_1,cell_id,2037,12.877314,0.0,30,386.3194,RWA.5.1.7.1_1,UmujyiwaKigali,Gasabo,Kacyiru,Kamatamu
+RWA.5.3.9.1_1,cell_id,2161,12.313789,0.0,6,73.88274,RWA.5.3.9.1_1,UmujyiwaKigali,Nyarugenge,Nyarugenge,Agatare
+RWA.5.1.10.1_1,cell_id,2046,11.79218,0.0,56,660.36206,RWA.5.1.10.1_1,UmujyiwaKigali,Gasabo,Kinyinya,Gacuriro

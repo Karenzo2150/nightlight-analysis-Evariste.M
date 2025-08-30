@@ -208,3 +208,4 @@ __marimo__/
 
 # Files not to push to github repository
 .venv-test/*
+data/*
