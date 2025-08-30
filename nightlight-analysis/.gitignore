@@ -209,6 +209,6 @@ __marimo__/
 # Ignore everything in data except the zonal stats CSV
 
 data/*
-!ntl/rw-adm4-ntl-stats.csv
+data/ntl/rw-adm4-ntl-stats.csv
 requirements
 nightlight_env/*
